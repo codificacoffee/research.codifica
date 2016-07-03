@@ -592,6 +592,21 @@
                             "long" : -73.9778095,
                             "zoom" : 17
                         }
+                    },
+                    {
+                        "id" : "dunkin_donuts",
+                        "name" : "Dunkin' Donuts™",
+                        "address1" : "266 1st Avenue",
+                        "address2" : "",
+                        "city" : "New York",
+                        "state" : "NY",
+                        "zip" : "10009",
+                        "country" : "USA",
+                        "coords" : {
+                            "lat" : "40.732157",
+                            "long" : "-73.981547",
+                            "zoom" : 17
+                        }
                     }
                 ]
             },
